@@ -10,6 +10,11 @@ I practise SQL daily as part of my preparation for Data Analyst roles.
 |---|---------|---------|------------|----------|
 | 1 | Revising Aggregations - The Count Function | Aggregation | Easy | [SQL](aggregation/revising-aggregations-count.sql) |
 | 2 | Revising Aggregations - The Sum Function | Aggregation | Easy | [SQL](aggregation/revising-aggregations-sum.sql) |
+| 3 | Revising Aggregations - Averages | Aggregation | Easy | [SQL](aggregation/revising-aggregations-averages.sql) |
+| 4 | Average Population | Aggregation | Easy | [SQL](aggregation/average-population.sql) |
+| 5 | Japan Population | Aggregation | Easy | [SQL](aggregation/japan-population.sql) |
+| 6 | Population Density Difference | Aggregation | Easy | [SQL](aggregation/population-density-difference.sql) |
+| 7 | The Blunder | Aggregation | Easy | [SQL](aggregation/the-blunder.sql) |
 
 ## Structure
 
