@@ -15,6 +15,11 @@ I practise SQL daily as part of my preparation for Data Analyst roles.
 | 5 | Japan Population | Aggregation | Easy | [SQL](aggregation/japan-population.sql) |
 | 6 | Population Density Difference | Aggregation | Easy | [SQL](aggregation/population-density-difference.sql) |
 | 7 | The Blunder | Aggregation | Easy | [SQL](aggregation/the-blunder.sql) |
+| 8 | Top Earners | Aggregation | Easy | [SQL](aggregation/top-earners.sql) |
+| 9 | Weather Observation Station 2 | Aggregation | Easy | [SQL](aggregation/weather-observation-station-2.sql) |
+| 10 | Weather Observation Station 13 | Aggregation | Easy | [SQL](aggregation/weather-observation-station-13.sql) |
+| 11 | Weather Observation Station 14 | Aggregation | Easy | [SQL](aggregation/weather-observation-station-14.sql) |
+| 12 | Weather Observation Station 15 | Aggregation | Easy | [SQL](aggregation/weather-observation-station-15.sql) |
 
 ## Structure
 
