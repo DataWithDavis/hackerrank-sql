@@ -20,6 +20,10 @@ I practise SQL daily as part of my preparation for Data Analyst roles.
 | 10 | Weather Observation Station 13 | Aggregation | Easy | [SQL](aggregation/weather-observation-station-13.sql) |
 | 11 | Weather Observation Station 14 | Aggregation | Easy | [SQL](aggregation/weather-observation-station-14.sql) |
 | 12 | Weather Observation Station 15 | Aggregation | Easy | [SQL](aggregation/weather-observation-station-15.sql) |
+| 13 | Weather Observation Station 16 | Aggregation | Easy | [SQL](aggregation/weather-observation-station-16.sql) |
+| 14 | Weather Observation Station 17 | Aggregation | Easy | [SQL](aggregation/weather-observation-station-17.sql) |
+| 15 | Weather Observation Station 18 | Aggregation | Medium | [SQL](aggregation/weather-observation-station-18.sql) |
+| 16 | Weather Observation Station 19 | Aggregation | Medium | [SQL](aggregation/weather-observation-station-19.sql) |
 
 ## Structure
 
